@@ -1,4 +1,4 @@
-# healthcare-diagnostics-treatment
+Healthcare diagnostics and treatment
 COLLEGE CODE : 1106
 COLLEGE NAME : IIET
 DEPARTMENT : BE.CSE
