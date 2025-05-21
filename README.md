@@ -23,13 +23,20 @@ AI/EBPL/HEALTHCARE DIAGNOSTICS AND TREATMENT
 
 
 
-SUBMITTED BY,
+SUBMITTED BY, 
+
 Your Name and team member names:
+
     1. B.SARIKA
+    
     2. K.THANISHA
+    
     3. N.HEMAPRIYA
+    
     4. KARTHICK KUMAR
+    
     5. GUNASEELAN
+    
     
 Phase 5: Project Demonstration & Documentation
 
