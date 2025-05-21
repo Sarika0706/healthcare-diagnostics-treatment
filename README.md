@@ -83,6 +83,7 @@ Outcome:
 A comprehensive reference for future developers, clinical users, and system administrators.
 
 phase 3 overview
+
 .Data Sources
 The model is trained on a variety of structured and unstructured datasets, including medical records, patient demographics, and symptom descriptions. Data is sourced from trusted medical databases, clinical trials, and real-time health monitoring systems, ensuring high-quality input for accurate predictions.
 User Interaction
@@ -93,6 +94,7 @@ Continuous Feedback Loop for Improvement:
 Feedback collection occurs regularly, allowing the test group to share insights on device functionality, security, and user experience. This feedback is used to make iterative improvements, addressing issues such as security vulnerabilities, performance inefficiencies, or user interface enhancements.
 
 phase 4 overview
+
 Accuracy Testing: Cross-validation and real-world testing ensure model robustness and generalization across diverse patient groups.
 ⮚	Real-Time Data Processing and Analytics
 Enables instant analysis of vital signs and health metrics for early diagnosis and intervention.
