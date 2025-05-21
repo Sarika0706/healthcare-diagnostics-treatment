@@ -84,7 +84,7 @@ A comprehensive reference for future developers, clinical users, and system admi
 
 phase 3 overview
 
-.Data Sources
+Data Sources
 The model is trained on a variety of structured and unstructured datasets, including medical records, patient demographics, and symptom descriptions. Data is sourced from trusted medical databases, clinical trials, and real-time health monitoring systems, ensuring high-quality input for accurate predictions.
 User Interaction
 The chatbot is designed to offer a user-friendly, conversational interface. It guides users through symptom assessments, provides medical information, and answers queries in real time. The interaction is intuitive, with a focus on ease of use for all demographics, and supports both text-based and voice inputs for accessibility
